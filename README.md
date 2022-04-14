@@ -1,13 +1,13 @@
 <img src="static/Synadia_Logo_new_font_only_black.png" alt="Synadia Communications logo" width="200"/>
 
-# NGS Issues
+# NGS Feedback
 
 The purpose of this repository is for discussion around Synadia's
 [NGS](https://synadia.com/ngs), including issues, questions, comments, and
 feature requests for users and customers of NGS. We will provide answers
 to questions and resolve problems to the best of our effort.
 
-## Questions, Issues and Feature requests
+## Questions, Feature requests, and Issues
 
 For general questions don't forget to first check out our
 [NGS FAQ](https://docs.synadia.com/other-resources/faq).
@@ -19,7 +19,7 @@ your request. To learn about support options contact us at
 
 Otherwise, if there is a feature you would like to see or if you are encountering a
 problem, certainly feel free to open an
-[issue](https://github.com/ConnectEverything/ngs-issues/issues/new/choose) and we
+[issue](https://github.com/ConnectEverything/ngs-feedback/issues/new/choose) and we
 will respond as soon as we can.
 
 ## Email
