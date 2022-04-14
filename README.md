@@ -36,7 +36,7 @@ More information can be found here:
 
 - [NGS FAQ](https://docs.synadia.com/other-resources/faq)
 - [NATS Documentation](https://docs.nats.io)
-- [NATS Slack](https://slack.nat.io)
+- [NATS Slack](https://slack.nats.io)
 - [The NATS CLI Tool](https://docs.nats.io/running-a-nats-service/clients#installing-the-nats-cli-tool)
 - [NATS Clients](https://nats.io/download/#clients)
 
