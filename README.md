@@ -7,7 +7,7 @@ The purpose of this repository is for discussion around Synadia's
 feature requests for users and customers of NGS. We will provide answers
 to questions and resolve problems to the best of our effort.
 
-## Questions, Feature requests, and Issues
+## Questions, Feature Requests, and Issues
 
 For general questions don't forget to first check out our
 [NGS FAQ](https://docs.synadia.com/other-resources/faq).
